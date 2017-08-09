@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="imageList">
+        <item>http://orig08.deviantart.net/c5c7/f/2013/120/7/b/png_monsters_inc_by_upinflames12-d63nx7i.png</item>
+        <item>https://www.dreamhost.com/blog/wp-content/uploads/2015/10/DHC_blog-image-01-300x300.jpg</item>
+        <item>https://i.vimeocdn.com/portrait/13975105_300x300</item>
+        <item>https://static.pexels.com/photos/45164/mare-animal-nature-ride-45164.jpeg</item>
+        <item>http://animals.sandiegozoo.org/sites/default/files/2016-08/category-thumbnail-mammals_0.jpg</item>
+        <item>https://static.pexels.com/photos/33537/cat-animal-cat-portrait-mackerel.jpg</item>
+        <item>http://cdn.playbuzz.com/cdn/143e9600-862d-449b-957c-e90c54854554/f0ff0eb9-7e80-4c09-8723-ff1b625eb1d7.jpg</item>
+        <item>https://www.animalaid.org.uk/wp-content/uploads/2016/08/lamb-iStock-copy-767x655.jpg</item>
+        <item>http://www.wildlifelearningcenter.org/wp-content/uploads/2016/02/macaw-1.jpg</item>
+        <item>http://static.boredpanda.com/blog/wp-content/uploads/2016/11/animal-portraits-sergey-polyushko-5-582b05d084f19__880.jpg</item>
+        <item>http://cdn.images.express.co.uk/img/dynamic/128/590x/secondary/tortoise-891219.jpg</item>
+        <item>https://ichef-1.bbci.co.uk/news/660/cpsprodpb/126AC/production/_87563457_231fe8a0-020e-4b60-84b7-0fca26a1623c.jpg</item>
+    </string-array>
+
+    <string-array name="nameList">
+        <item>Pic1</item>
+        <item>Pic2</item>
+        <item>Pic3</item>
+        <item>Pic4</item>
+        <item>Pic5</item>
+        <item>Pic6</item>
+        <item>Pic7</item>
+        <item>Pic8</item>
+        <item>Pic9</item>
+        <item>Pic10</item>
+        <item>Pic11</item>
+        <item>Pic12</item>
+    </string-array>
+
+</resources>
